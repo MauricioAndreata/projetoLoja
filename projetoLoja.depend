@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1658369268 source:d:\mauricio\downloads\projetoloja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"desenhos.h"
+
+1658366244 d:\mauricio\downloads\projetoloja\desenhos.h
+
+1658408652 source:f:\ufu\projetoloja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"desenhos.h"
+
+1658408458 f:\ufu\projetoloja\desenhos.h
+
+1660407968 source:g:\ufu\projetoloja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"desenhos.h"
+
+1660327026 g:\ufu\projetoloja\desenhos.h
+
+1660495170 source:d:\ufu\projetoloja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"desenhos.h"
+
+1660327026 d:\ufu\projetoloja\desenhos.h
+
